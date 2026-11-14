@@ -106,7 +106,7 @@ Before running the project, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/state_management_assignment.git
+git clone https://github.com/mak8924/state_management_assignment.git
 ```
 
 ### 2. Navigate to the Project Directory
